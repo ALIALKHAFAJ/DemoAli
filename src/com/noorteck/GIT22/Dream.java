@@ -7,5 +7,8 @@ public class Dream {
 		 
 		System.out.println("FOR ever");
 	}
+	public void add(int a, int b){
+		
+	}
 
 }
